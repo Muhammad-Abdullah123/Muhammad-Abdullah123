@@ -1,22 +1,20 @@
 <div align="center">
-<table>
-<!-- 3D DYNAMIC HEADER -->
-<img src="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg">
-<!-- FLOATING 3D ICON & TYPING EFFECT -->
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" />
-    </td>
-    <td align="left" width="70%">
-      <h1>👋 I'm <kbd>[YOUR NAME]</kbd></h1>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Software+Engineer;UI+%2F+UX+Designer;Open+Source+Maintainer;Cloud+Solutions+Architect" alt="Typing SVG" />
-      </a>
-      <p><i>Building scalable, high-performance applications with a focus on user-centric design.</i></p>
-    </td>
-  </tr>
-</table>
-
+  <!-- BANNER IMAGE SET AS TABLE BACKGROUND -->
+  <table background="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg" width="100%" style="background-size: cover; background-position: center; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="30%" style="padding: 20px; background: rgba(0, 0, 0, 0.5);">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" alt="3D Floating Icon" />
+      </td>
+      <td align="left" width="70%" style="padding: 20px; background: rgba(0, 0, 0, 0.5);">
+        <h1><font color="#FFFFFF">👋 I'm <kbd>[YOUR NAME]</kbd></font></h1>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Software+Engineer;UI+%2F+UX+Designer;Open+Source+Maintainer;Cloud+Solutions+Architect" alt="Typing SVG" />
+        </a>
+        <p><font color="#E0E0E0"><i>Building scalable, high-performance applications with a focus on user-centric design.</i></font></p>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Senior_Engineer-00D1FF?style=for-the-badge&logo=opsgenie&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge" alt="Views" />
