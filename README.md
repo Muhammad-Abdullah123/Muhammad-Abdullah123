@@ -1,19 +1,43 @@
 <div align="center">
-  <!-- BANNER IMAGE SET AS TABLE BACKGROUND -->
-  <table background="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg" width="100%" style="background-size: cover; background-position: center; border-collapse: collapse;">
+  <!-- START OF INTEGRATED HEADER BACKGROUND -->
+  <!-- We use standard HTML inside markdown for precision control over the nested elements and transparency -->
+  <table border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:980px; border-collapse: collapse; margin: 0 auto; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
     <tr>
-      <td align="center" width="30%" style="padding: 20px; background: rgba(0, 0, 0, 0.5);">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" alt="3D Floating Icon" />
-      </td>
-      <td align="left" width="70%" style="padding: 20px; background: rgba(0, 0, 0, 0.5);">
-        <h1><font color="#FFFFFF">👋 I'm <kbd>[YOUR NAME]</kbd></font></h1>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Software+Engineer;UI+%2F+UX+Designer;Open+Source+Maintainer;Cloud+Solutions+Architect" alt="Typing SVG" />
-        </a>
-        <p><font color="#E0E0E0"><i>Building scalable, high-performance applications with a focus on user-centric design.</i></font></p>
+      <td style="
+        background-image: url('https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg');
+        background-size: cover;
+        background-position: center;
+        padding: 40px;
+        border-radius: 20px;
+        color: #ffffff;
+      ">
+        <!-- NESTED PERSONAL PROFILE TABLE - Floating on background -->
+        <table border="0" style="background-color: rgba(9, 6.8, 9, 0.5); border-radius: 15px; padding: 25px; backdrop-filter: blur(5px);">
+          <tr>
+            <!-- Left: Floating 3D Icon -->
+            <td align="center" width="25%" style="vertical-align: top;">
+              <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" alt="Floating 3D Icon" />
+            </td>
+            <!-- Right: Typing Effect & Info -->
+            <td align="left" width="75%" style="vertical-align: top; padding-left: 20px;">
+              <h1 style="color: #ffffff; margin-top: 0;">👋 I'm <kbd>[YOUR_NAME]</kbd></h1>
+              <a href="https://github.com/[YOUR_USERNAME]">
+                <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Software+Engineer;UI+%2F+UX+Designer;Open+Source+Maintainer;Cloud+Solutions+Architect" alt="Typing SVG" />
+              </a>
+              <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1em; margin-top: 15px;"><i>Building scalable, high-performance applications with a focus on user-centric design.</i></p>
+            </td>
+          </tr>
+        </table>
+        <!-- SOCIAL LINKS IN INTEGRATED HEADER -->
+        <p align="center" style="margin-top: 25px;">
+            <a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+            <a href="mailto:[YOUR_EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+            <a href="https://[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-Explore-green?style=for-the-badge&logo=react" alt="Portfolio"></a>
+        </p>
       </td>
     </tr>
   </table>
+  <!-- END OF INTEGRATED HEADER BACKGROUND -->
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Senior_Engineer-00D1FF?style=for-the-badge&logo=opsgenie&logoColor=white" />
