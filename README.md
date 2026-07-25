@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20with%20Code&descSize=20&descAlignY=60" width="100%" />
+<img src="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg">
 
 <br />
 
