@@ -2,9 +2,6 @@
 
 <!-- 3D DYNAMIC HEADER -->
 <img src="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg">
-
-<br />
-
 <!-- FLOATING 3D ICON & TYPING EFFECT -->
 <table>
   <tr>
