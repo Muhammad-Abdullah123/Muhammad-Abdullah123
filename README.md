@@ -1,9 +1,8 @@
 <div align="center">
-
+<table>
 <!-- 3D DYNAMIC HEADER -->
 <img src="https://i.postimg.cc/8CP5zy6n/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg">
 <!-- FLOATING 3D ICON & TYPING EFFECT -->
-<table>
   <tr>
     <td align="center" width="30%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" />
