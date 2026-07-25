@@ -16,12 +16,12 @@
           <tr>
             <!-- Left: Floating 3D Icon -->
             <td align="center" width="25%" style="vertical-align: top;">
-              <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0bmZqZnd4ZzRxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SXP6vI57p6m03SXM/giphy.gif" width="180px" alt="Floating 3D Icon" />
+              <img src="https://i.postimg.cc/T3CycBM2/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-in.jpg" width="200px" alt="Floating 3D Icon" />
             </td>
             <!-- Right: Typing Effect & Info -->
             <td align="left" width="75%" style="vertical-align: top; padding-left: 20px;">
-              <h1 style="color: #ffffff; margin-top: 0;">👋 I'm <kbd>[YOUR_NAME]</kbd></h1>
-              <a href="https://github.com/[YOUR_USERNAME]">
+              <h1 style="color: #ffffff; margin-top: 0;">👋 I'm Muhammad-Abdullah-Azam</h1>
+              <a href="https://github.com/Muhammad-Abdullah123">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Software+Engineer;UI+%2F+UX+Designer;Open+Source+Maintainer;Cloud+Solutions+Architect" alt="Typing SVG" />
               </a>
               <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1em; margin-top: 15px;"><i>Building scalable, high-performance applications with a focus on user-centric design.</i></p>
